@@ -1,0 +1,35 @@
+
+body {
+    background: url(../img/wall/wall_num8.jpg);
+}
+
+.section {
+    padding: 30px 0;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+.entrance {
+    background: url(../img/home/94.jpg);
+    background-position: -5px -170px;
+    width: 970px;
+    height: 310px;
+    margin: 180px auto;
+}
+
+.entrance .wrap {
+    min-height: 100%;
+    height: auto !important;
+}
+
+.entrance .footer {
+    margin-top: -50px;
+}
+
+.entrance .footer img {
+    width: 150px;
+    height: 34px;
+}
