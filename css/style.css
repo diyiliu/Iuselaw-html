@@ -33,3 +33,32 @@ body {
     width: 150px;
     height: 34px;
 }
+.result-step .nav a{
+    display: inline-block;
+    width: 183px;
+    height: 58px;
+}
+.result-step a.step1{
+    background: url("../img/divorce/step1灰.png");
+}
+.result-step a.step2{
+    background: url("../img/divorce/step2灰.png");
+}
+.result-step a.step3{
+    background: url("../img/divorce/step3灰.png");
+}
+.result-step a.step4{
+    background: url("../img/divorce/step4灰.png");
+}
+.result-step a.step5{
+    background: url("../img/divorce/step5灰.png");
+}
+.result-step a.step6{
+    background: url("../img/divorce/step6灰.png");
+}
+.result-step a.step7{
+    background: url("../img/divorce/step5灰.png");
+}
+.result-step a.step8{
+    background: url("../img/divorce/step6灰.png");
+}
